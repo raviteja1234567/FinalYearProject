@@ -7,5 +7,5 @@ Next same way run untitled0.py for generating exercising heartbeat and sending i
 Note that after running each of the above .py scripts hold pulse sensor until you see 5 heartbeats on the console
 After that run the tt1.py script for applying machine learning algorithms and predicting stress level
 Pre requisites:
-Arduino IDE
+Arduino IDE,
 Spyder(For executing python scripts)
